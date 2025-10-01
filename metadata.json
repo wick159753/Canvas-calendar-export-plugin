@@ -1,0 +1,5 @@
+{
+  "name": "Canvas Calendar Exporter",
+  "description": "A plugin for Canvas to easily export your calendar events to an iCal file or add them to your Google Calendar for better organization.",
+  "requestFramePermissions": []
+}
